@@ -1,4 +1,4 @@
-# 📘 Roadmap de Estudos — PT-BR & EN
+# Roadmap para Iniciar na Área de TI — IT Beginner Roadmap
 Uma lista da minha visão de estudo na área de TI.<br>
 A list of my vision for studying in the IT field.
 
